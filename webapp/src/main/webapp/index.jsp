@@ -99,8 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomorrow we will start Docker...... **** </h1>   
-	 <h1>#### This is master  branch <h1>
+         <h1> **** Hi this is maddy server...... **** </h1>   
 	 
 
     </section>    
